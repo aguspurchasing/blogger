@@ -16,7 +16,7 @@ ul.MenuBarVertical
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
-	font-size: 60%;
+	font-size: 100%;
 	cursor: default;
 	width: 10em;
 }
@@ -31,7 +31,7 @@ ul.MenuBarVertical li
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
-	font-size: 60%;
+	font-size: 100%;
 	position: relative;
 	text-align: left;
 	cursor: pointer;
@@ -45,7 +45,7 @@ ul.MenuBarVertical ul
 	margin: -5% 0 0 95%;
 	padding: 0;
 	list-style-type: none;
-	font-size: 60%;
+	font-size: 100%;
 	position: absolute;
 	z-index: 1020;
 	cursor: default;
