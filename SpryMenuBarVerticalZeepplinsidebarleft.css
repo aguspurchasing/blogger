@@ -37,7 +37,7 @@ ul.MenuBarVertical li
 	cursor: pointer;
 	width: 13em;
 	visibility: visible;
-	background-image: url(https://3.bp.blogspot.com/-TaC0XXpx618/WBLwoDxo1II/AAAAAAAABqo/Jx_5-1mvNbcAyD1A1EhlrrREOw6YHhqigCLcB/s1600/github10.gif);
+	background-image: url(https://3.bp.blogspot.com/-XldvaKhNO6Q/WCA5B7f3uEI/AAAAAAAABq4/RDHMIjEZ5acOr6dOpQtWDEvrxuvPBFmdQCLcB/s1600/biru.png);
 }
 /* Submenus should appear slightly overlapping to the right (95%) and up (-5%) with a higher z-index, but they are initially off the left side of the screen (-1000em) */
 ul.MenuBarVertical ul
@@ -87,7 +87,7 @@ ul.MenuBarVertical a
 {
 	display: block;
 	cursor: pointer;
-	background-image: url(https://3.bp.blogspot.com/-TaC0XXpx618/WBLwoDxo1II/AAAAAAAABqo/Jx_5-1mvNbcAyD1A1EhlrrREOw6YHhqigCLcB/s1600/github10.gif);
+	background-image: url(https://3.bp.blogspot.com/-XldvaKhNO6Q/WCA5B7f3uEI/AAAAAAAABq4/RDHMIjEZ5acOr6dOpQtWDEvrxuvPBFmdQCLcB/s1600/biru.png);
 	padding: 0.5em 0.75em;
 	color: #333;
 	text-decoration: none;
