@@ -35,7 +35,7 @@ ul.MenuBarVertical li
 	position: relative;
 	text-align: left;
 	cursor: pointer;
-	width: 30em;
+	width: 60em;
 	visibility: visible;
 	background-image: url(https://3.bp.blogspot.com/-XldvaKhNO6Q/WCA5B7f3uEI/AAAAAAAABq4/RDHMIjEZ5acOr6dOpQtWDEvrxuvPBFmdQCLcB/s1600/biru.png);
 }
@@ -49,7 +49,7 @@ ul.MenuBarVertical ul
 	position: absolute;
 	z-index:  auto
 	cursor: default;
-	width: 30em;
+	width: 60em;
 	left: -1000em;
 	top: 0;
 }
